@@ -11,7 +11,6 @@ Es:
 - **Full**
 
 |Nombre|Ciudad|
-|--|--|
 |Jeffrey|Bogotá|
 |Julián|Pasto|
 |Ricardo|Quito|
