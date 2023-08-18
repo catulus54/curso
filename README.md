@@ -2,19 +2,14 @@
 
 Bienvenidos a mi curso de construcción de sitios web!
 
-Este entrenamiento exhibe la propiedad _CBF_.
+Temas:
 
-Es:
+- Interface Github
+- Editor VSCode
+- Markdown
+- HTML
+- CSS
+- Javascript
 
-- Chévere
-- Bacano, e
-- **Full**
-
-|Nombre|Ciudad|
-|------|------|
-|Jeffrey|Bogotá|
-|Julián|Pasto|
-|Ricardo|Quito|
-|Diego|Margate|
 
 
