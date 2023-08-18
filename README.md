@@ -2,7 +2,7 @@
 
 Bienvenidos a mi curso de construcción de sitios web!
 
-Este entrenamiento exhibe la propieadad CBF.
+Este entrenamiento exhibe la propiedad CBF.
 
 Es:
 
